@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/carlos/Documentos/Dio/DesafioDio/Criando um Banco Digital com Java e Orientação a Objetos/Criando-um-Banco-Digital-com-Java-e-Orienta-o-a-Objetos/.metadata/.plugins/org.eclipse.jdt.core
+3974768725.index
+1865797976.index
+900586112.index
